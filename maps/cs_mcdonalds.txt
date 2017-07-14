@@ -1,0 +1,37 @@
+Mc Donalds - Hostage Rescue
+
+Based around a store located in 
+Torquay/Devon/England.
+
+--------------------------------------------
+
+Counter-Terrorists:
+
+Rescue the hostages, from the back
+of the restaurant. 
+
+Take out the Terrorists without jeopardizing 
+the hostages. 
+
+-------------
+
+Terrorists: 
+
+Prevent Counter-Terrorist force from 
+rescuing the hostages.
+
+Cause as much damage as possible without 
+injuring the hostages.
+
+Contact: IRC Quakenet: #cba-tbh
+
+--------------------------------------------
+
+Credits:
+
+CrAzY - Rich.M
+El Capitan - Nick.W
+HAz - Jon.F
+
+Thanks to Mc Donalds and the people who made
+some of the textures we used!

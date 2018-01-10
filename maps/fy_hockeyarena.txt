@@ -1,8 +1,0 @@
-fy_hockeyarena
-
-Made By: Nuogram (nuogram@luukku.com)
-
-Terrorists:  Kill Counter-Terrorists 
-Counter-Terrorists:  Kill Terrorists 
-
-(Press FIRE to continue)

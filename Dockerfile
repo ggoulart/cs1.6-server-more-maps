@@ -29,7 +29,7 @@ COPY metamod_i386.so cstrike/addons/metamod/dlls/
 COPY metamod.so cstrike/addons/metamod/dlls/
 
 # Add bots
-COPY podbot cdstrike/addons/podbot
+COPY podbot cstrike/addons/podbot
 RUN echo "linux addons/podbot/podbot_mm_i386.so" > cstrike/addons/metamod/plugins.ini
 COPY liblist.gam cstrike/
 
